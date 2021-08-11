@@ -17,6 +17,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <img src="https://komarev.com/ghpvc/?username=kozlowskij2&color=green" alt="kozlowskij2" /> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/kozlowskij2/kozlowskij2/blob/output/github-contribution-grid-snake.svg)
  
 </div>
