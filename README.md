@@ -1,4 +1,10 @@
-# Olá! Eu sou o Jean
+# Opa, você vem sempre aqui?
+## Eu sou o Jean
+* Tenho 19 anos 
+* Tô no meu primeiro ano do Bacharelado em Ciência e Tecnologia pela UNIFESP de SJC
+* Amo tecnologia e gastronomia
+* Inimigo do FrontEnd
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jean-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
