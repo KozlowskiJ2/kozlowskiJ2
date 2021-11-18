@@ -1,8 +1,8 @@
 # Opa, você vem sempre aqui?
 ## Eu sou o Jean
 * Tenho 19 anos 
-* Tô no meu primeiro ano do Bacharelado em Ciência e Tecnologia pela UNIFESP de SJC
-* Amo tecnologia e gastronomia
+* Tô no meu primeiro ano do Bacharelado em Ciência e Tecnologia com foco em biotecnologia pela UNIFESP
+* Amo tecnologia
 * Inimigo do FrontEnd
 
 <div style="display: inline_block"><br>
