@@ -3,7 +3,6 @@
 * Tenho 19 anos 
 * Tô no meu primeiro ano do Bacharelado em Ciência e Tecnologia com foco em biotecnologia pela UNIFESP
 * Amo tecnologia
-* Inimigo do FrontEnd
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
